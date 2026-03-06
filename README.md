@@ -32,7 +32,7 @@ High School Students: The ultimate study companion. Heatmap mode visualizes peri
 University Students & Researchers: Look up atomic mass, electron configurations, isotope data, and more on the go. A pocket-sized replacement for bulky chemistry references — ready in the lab or library.
 Educators: Demonstrate periodic trends in class with live category filtering and heatmap switching — turning abstract concepts into something students can actually see.
 Chemistry Enthusiasts: Curious about any element? Just search and dive in. The immersive experience makes exploring the periodic table a pleasure in itself.
-![hi](Ptable1.png)
+![hi](Ptable1.PNG)
 
 <span style="color:red; font-size:18px;">Support or Contact</span>
 
